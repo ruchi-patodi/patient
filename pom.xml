@@ -3,6 +3,7 @@
   <groupId>com.glx.services</groupId>
   <artifactId>spring-boot-patient</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+   <packaging>war</packaging>
   <name>Patient Service</name>
   <description>Sample Patient Service</description>
   <parent>
